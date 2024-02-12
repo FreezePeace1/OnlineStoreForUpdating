@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\myprojects\\backend\\wwwroot\\files\\images\\58aefac1c869e092af51ee68.png",
+      "PackagePath": "staticwebassets\\files\\images\\58aefac1c869e092af51ee68.png"
+    },
+    {
+      "Id": "D:\\myprojects\\backend\\wwwroot\\files\\images\\Alcatel.png",
+      "PackagePath": "staticwebassets\\files\\images\\Alcatel.png"
+    },
+    {
+      "Id": "D:\\myprojects\\backend\\wwwroot\\files\\images\\Apple.png",
+      "PackagePath": "staticwebassets\\files\\images\\Apple.png"
+    },
+    {
+      "Id": "D:\\myprojects\\backend\\wwwroot\\files\\images\\Arcticsky_9.png",
+      "PackagePath": "staticwebassets\\files\\images\\Arcticsky_9.png"
+    },
+    {
+      "Id": "D:\\myprojects\\backend\\wwwroot\\files\\images\\Asus.png",
+      "PackagePath": "staticwebassets\\files\\images\\Asus.png"
+    },
+    {
+      "Id": "D:\\myprojects\\backend\\wwwroot\\files\\images\\Htc.png",
+      "PackagePath": "staticwebassets\\files\\images\\Htc.png"
+    },
+    {
+      "Id": "D:\\myprojects\\backend\\wwwroot\\files\\images\\Huawei.png",
+      "PackagePath": "staticwebassets\\files\\images\\Huawei.png"
+    },
+    {
+      "Id": "D:\\myprojects\\backend\\wwwroot\\files\\images\\Lg.png",
+      "PackagePath": "staticwebassets\\files\\images\\Lg.png"
+    },
+    {
+      "Id": "D:\\myprojects\\backend\\wwwroot\\files\\images\\Meizu.png",
+      "PackagePath": "staticwebassets\\files\\images\\Meizu.png"
+    },
+    {
+      "Id": "D:\\myprojects\\backend\\wwwroot\\files\\images\\Motorola.png",
+      "PackagePath": "staticwebassets\\files\\images\\Motorola.png"
+    },
+    {
+      "Id": "D:\\myprojects\\backend\\wwwroot\\files\\images\\Nokia.png",
+      "PackagePath": "staticwebassets\\files\\images\\Nokia.png"
+    },
+    {
+      "Id": "D:\\myprojects\\backend\\wwwroot\\files\\images\\Samsung.png",
+      "PackagePath": "staticwebassets\\files\\images\\Samsung.png"
+    },
+    {
+      "Id": "D:\\myprojects\\backend\\wwwroot\\files\\images\\Sony.png",
+      "PackagePath": "staticwebassets\\files\\images\\Sony.png"
+    },
+    {
+      "Id": "D:\\myprojects\\backend\\wwwroot\\files\\images\\Xiaomi.png",
+      "PackagePath": "staticwebassets\\files\\images\\Xiaomi.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.backend.props",
+      "PackagePath": "build\\backend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.backend.props",
+      "PackagePath": "buildMultiTargeting\\backend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.backend.props",
+      "PackagePath": "buildTransitive\\backend.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
